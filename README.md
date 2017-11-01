@@ -1,4 +1,21 @@
-A simple admin module for an e-commerce website written in PHP, HTML, CSS, JavaScript and MySQL database.
-The admin module includes a login page for the adminstrators, and product list page.
-It also includes adding, deleting and editing products functionalities.
-Pagination functionality has been provided in the product list page.
+## E-Commerce Admin Module
+
+A simple admin module for an e-commerce website.
+
+### Language and Tools
+
+* PHP
+* HTML
+* CSS
+* JavaScript
+* MySQL
+
+### Features
+
+* Login page
+* List of products page
+* Add new product
+* Delete existing product
+* Edit existing product
+* Pagination added to product list page
+
